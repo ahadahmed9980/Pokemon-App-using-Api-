@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen> {
             mainAxisSize: MainAxisSize.min,
             children: [
               // SizedBox(height: MediaQuery.of(context).size.height * 0.18),
-              SizedBox(height: size.height * 0.2),
+              SizedBox(height: size.height * 0.21),
               Image.asset("assets/images/logos.png", width: size.width * 0.8)
                  ,
 
